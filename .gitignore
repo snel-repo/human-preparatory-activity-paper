@@ -1,0 +1,22 @@
+# vscode
+.vscode/
+
+# python compiles
+__pycache__
+*.pyc
+
+# images/video
+*.png
+*.mp4
+
+# pdfs
+*.pdf
+
+# HDF5 files
+*.h5
+
+# mat files
+*.mat
+
+# pickle files
+*.pkl
